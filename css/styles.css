@@ -249,5 +249,9 @@ h1 {
 }
 
 html {
- background-color: white; 
+  background-color: white;
+}
+body {
+  width: 80%;
+  margin-left: 10%;
 }
